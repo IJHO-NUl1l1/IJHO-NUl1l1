@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=5,6,6,5&text=%EA%B0%9C%EB%B0%9C%EC%9E%90%20JIHO%EC%9E%85%EB%8B%88%EB%8B%A4!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%97%90%20%EA%B4%80%EC%8B%AC%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.&descSize=14&descAlign=50&descAlignY=70">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=5,6,6,5&text=Welcome%20to%20JIHO%27s%20GitHub!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Exploring%20Frontend%20and%20Blockchain%20with%20passion.&descSize=14&descAlign=50&descAlignY=70">
 </p>
 
 # Hackathon
