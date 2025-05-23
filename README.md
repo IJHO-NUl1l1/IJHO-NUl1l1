@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=5,6,6,5&text=Welcome%20to%20JIHO%27s%20GitHub!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Exploring%20Frontend%20and%20Blockchain%20with%20passion.&descSize=14&descAlign=50&descAlignY=70">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=5,6,6,5&text=Welcome%20to%20JIHO%27s%20GitHub!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Frontend%20developer%20diving%20deep%20into%20Web3.&descSize=14&descAlign=50&descAlignY=70">
 </p>
 
 # Hackathon
