@@ -2,6 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=5,6,6,5&text=%EA%B0%9C%EB%B0%9C%EC%9E%90%20JIHO%EC%9E%85%EB%8B%88%EB%8B%A4!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%97%90%20%EA%B4%80%EC%8B%AC%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.&descSize=14&descAlign=50&descAlignY=70">
 </p>
 
+# Hackathon
+
+|Date|Name|Category|Project|Result|Member|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.08|Build the New Internet|Service & Payment|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|Yong & Semin & Seongjae|
+|2024.11|Build On|Service & Data|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD|Yong & Seongjae & Chanho & Jiho & Jaewon|
+|2024.11|Chain Abstraction 2024|Service & E-Commerce|[Xchain Shop](https://github.com/juniahn-dev/xchainshop)|🥈 Agoric Orchestration - 2nd Place, 🛒 Honorable Mentions - SEDA|Yong & Seongjae & Jacob & Jiho & Jinhwan|
+|2024.06|Sui Overflow|DeFi|[Betmeme](#)|🥈 Fud the Dog — 2nd Place|Yong & Jacob & Taejin & Yewon & Semin|
+|2024.09 (예시)|BNB Chain 2024 Q3 Hackathon|Service|[WnW - Win with the wises](https://dorahacks.io/buidl/15630)|😭 Fail|Yewon & Semin & Chanho & Jiho & Seongjae & Yong|
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
