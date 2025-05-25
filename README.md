@@ -54,6 +54,7 @@
       <td><a href="https://github.com/hackathemy/ethena-prediction">Ethena Prediction</a></td>
       <td>😭 Fail</td>
       <td><a href="https://github.com/hackathemy/ethena-prediction">ethena-prediction</a></td>
+      <td><a href="https://github.com/IJHO-NUl1l1/goldsky-contract-subgraph">goldsky-contract-subgraph</a></td>
       <td>Seongjae & Jiho & Jinhwan & Yong & Chanho</td>
     </tr>
     <tr>
