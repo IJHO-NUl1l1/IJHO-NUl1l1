@@ -53,10 +53,12 @@
       <td>DeFi & Social</td>
       <td>
         <a href="https://github.com/hackathemy/ethena-prediction">Ethena Prediction</a>,
-        <a href="https://github.com/hackathemy/ethena-prediction">ethena-prediction</a>
       </td>
       <td>😭 Fail</td>
-      <td><a href="https://github.com/IJHO-NUl1l1/goldsky-contract-subgraph">goldsky-contract-subgraph</a></td>
+      <td>
+        <a href="https://github.com/IJHO-NUl1l1/goldsky-contract-subgraph">goldsky-contract-subgraph</a>
+        <a href="https://github.com/hackathemy/ethena-prediction">ethena-prediction</a>
+      </td>
       <td>Seongjae & Jiho & Jinhwan & Yong & Chanho</td>
     </tr>
     <tr>
