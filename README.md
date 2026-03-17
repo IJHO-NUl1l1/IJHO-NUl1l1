@@ -160,7 +160,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Windsurf-0078D7?style=for-the-badge&logo=windsurf&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Claude%20by%20Anthropic-00A896?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Claude-FF6B00?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp
 </div>
 
 <h3>📈 Most Used Languages</h3>
