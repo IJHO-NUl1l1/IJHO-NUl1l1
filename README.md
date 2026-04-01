@@ -165,7 +165,7 @@
 
 <h3>📈 Most Used Languages</h3>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJHO-NUl1l1&layout=compact&theme=tokyonight" />
+  <image-card alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJHO-NUl1l1&layout=compact&theme=tokyonight&hide_progress=false&langs_count=8" ></image-card>
 </div>
 
 <h3>📫 Contact</h3>
